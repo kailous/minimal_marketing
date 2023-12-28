@@ -1,0 +1,21 @@
+# Translations for Chinese
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+[Contact]
+  FirstName = "名字"
+  LastName = "姓氏"
+  Email = "Email"
+  PhoneNumber = "手机号码"
+  Message = "消息"
+  Send = "发送"
+  h1 = "告诉我们您的计划"
+
+[navBar]
+  Contact = "联系我们"
+  Posts = "博客"
+  About = "关于我们"
+
+[footer]
+  Home = "首页"
+  About = "关于我们"
+  Posts = "博客"

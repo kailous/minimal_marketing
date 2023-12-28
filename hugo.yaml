@@ -1,7 +1,7 @@
 baseURL: 'https://minimal-marketing.pages.dev'
 title: 'Minimal Marketing'
-languageCode: en-us
-DefaultContentLanguage: en
+languageCode: zh-cn
+DefaultContentLanguage: zh-cn
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
@@ -20,8 +20,8 @@ params:
     text: Book a meeting
     url: https://www.youtube.com/watch?v=oHg5SJYRHA0
   footer:
-    social_url: https://twitter.com/afrodudeonabike
-    social_username: '@afrodudeonabike'
+    social_url: https://github.com/kailous
+    social_username: '@Kailous'
 
 
 taxonomies:
@@ -37,3 +37,11 @@ module:
   hugoVersion:
     extended: true
     min: "0.110.0"
+
+languages:
+  en-us:
+    languageName: "English"
+    weight: 1
+  zh-cn:
+    languageName: "中文"
+    weight: 2

@@ -1,0 +1,21 @@
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+[Contact]
+  FirstName = "First name"
+  LastName = "Last name"
+  Email = "Email"
+  PhoneNumber = "Phone number"
+  Message = "Message"
+  Send = "Send message"
+  h1 = "Tell us about your plans"
+
+[navBar]
+  Contact = "Contact"
+  Posts = "Blog"
+  About = "About us"
+
+[footer]
+  Home = "Home"
+  About = "About us"
+  Posts = "Blog"

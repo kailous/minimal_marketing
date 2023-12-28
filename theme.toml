@@ -1,5 +1,6 @@
 name = "Minimal Marketing"
 license = "MIT"
+languageCode = 'zh-cn'
 licenselink = "https://github.com/letItCurl/minimal_marketing/blob/main/LICENSE"
 description = "This is a simple website that is optimized for converting traffic to a marketing goal. It costs only $10/year to host, hence minimal marketing."
 

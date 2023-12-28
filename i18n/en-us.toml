@@ -4,7 +4,7 @@ ln = "Last name"
 Email = "Email"
 Phonenumber = "Phone number"
 Message = "Message"
-Sendmessage = "Send message"
+sm = "Send message"
 ht = "Tell us about your plans"
 
 [Navbar]

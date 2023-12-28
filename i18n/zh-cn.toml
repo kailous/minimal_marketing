@@ -4,7 +4,7 @@ ln = "姓氏"
 Email = "Email"
 Phonenumber = "手机号码"
 Message = "消息"
-Sendmessage = "发送"
+sm = "发送"
 ht = "告诉我们您的计划"
 
 [Navbar]

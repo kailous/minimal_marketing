@@ -1,4 +1,4 @@
-baseURL: 'https://minimal-marketing.vercel.app'
+baseURL: '/'
 title: 'Minimal Marketing'
 languageCode: zh-cn
 DefaultContentLanguage: zh-cn

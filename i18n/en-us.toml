@@ -1,14 +1,23 @@
-[Contact]
-fn = "First name"
-ln = "Last name"
-Email = "Email"
-Phonenumber = "Phone number"
-Message = "Message"
-sm = "Send message"
-ht = "Tell us about your plans"
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
 
-[Navbar]
-Home = "Home"
-Contact = "Contact"
-Posts = "Blog"
-About = "About us"
+[Contact]
+  FirstName = "First name"
+  LastName = "Last name"
+  Email = "Email"
+  PhoneNumber = "Phone number"
+  Message = "Message"
+  Send = "Send message"
+  Title = "Tell us about your plans"
+
+[navBar]
+  Contact = "Contact"
+  Posts = "Blog"
+  About = "About us"
+  CloseMenu = "Close menu"
+  OpenMainMenu = "Open main menu"
+
+[footer]
+  Home = "Home"
+  About = "About us"
+  Posts = "Blog"

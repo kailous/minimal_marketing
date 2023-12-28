@@ -1,14 +1,24 @@
-[Contact]
-fn = "名字"
-ln = "姓氏"
-Email = "Email"
-Phonenumber = "手机号码"
-Message = "消息"
-sm = "发送"
-ht = "告诉我们您的计划"
+# Translations for Chinese
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
 
-[Navbar]
-Home = "首页"
-Contact = "联系我们"
-Posts = "博客"
-About = "关于我们"
+[Contact]
+  FirstName = "名字"
+  LastName = "姓氏"
+  Email = "Email"
+  PhoneNumber = "手机号码"
+  Message = "消息"
+  Send = "发送"
+  Title = "告诉我们您的计划"
+
+[navBar]
+  Home = "首页"
+  Contact = "联系我们"
+  Posts = "博客"
+  About = "关于我们"
+  CloseMenu = "关闭菜单"
+  OpenMainMenu = "打开主菜单"
+
+[footer]
+  Home = "首页"
+  About = "关于我们"
+  Posts = "博客"

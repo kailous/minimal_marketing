@@ -42,6 +42,8 @@ languages:
   en-us:
     languageName: "English"
     weight: 1
+
+    
   zh-cn:
     languageName: "中文"
     weight: 2

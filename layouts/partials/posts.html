@@ -31,7 +31,7 @@
                   </div>
                   <div class="">
                       <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                          <span class="pr-2 font-black">Tags:</span>
+                          <span class="pr-2 font-black">{{i18n "Posts.Tags"}}:</span>
                           <span>
                           {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
                             <a href="{{ .Permalink }}" class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">{{ .LinkTitle }}</a>
@@ -39,7 +39,7 @@
                           </span>
                       </div>
                       <div class="flex items-center mt-6">
-                          <div class="flex-shrink-0">
+                          <!-- <div class="flex-shrink-0">
                               <span class="sr-only">{{ .Params.author }}</span>
                               {{ with .Params.authorimage }}
                               {{ with resources.Get . }}
@@ -47,11 +47,11 @@
                               <img class="w-10 h-10 rounded-full" src="{{ $authorimage }}" alt="">
                               {{ end }}
                               {{ end }}
-                          </div>
-                          <div class="pt-1 ml-3">
-                              <p class="text-sm font-medium text-gray-900 dark:text-white">
+                          </div> -->
+                          <div class="pt-1">
+                              <!-- <p class="text-sm font-medium text-gray-900 dark:text-white">
                                   {{ .Params.author }}
-                              </p>
+                              </p> -->
                               <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
                                   <time datetime="2020-02-12">{{.Date.Format "2006-01-02"}}</time>
                                   <span aria-hidden="true">&middot;</span>

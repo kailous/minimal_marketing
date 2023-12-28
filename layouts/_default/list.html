@@ -4,7 +4,15 @@
         <header class="mb-4">
             <span class="py-96">
                 <h1 class="py-16 text-5xl font-black text-center text-white capitalize">
-                    {{ .Title }}
+                    {{ with .Section }}
+                        {{ if eq . "posts" }}
+                            {{ i18n "class.Posts" }}
+                        {{ else if eq . "cases" }}
+                            {{ i18n "class.Cases" }}
+                        {{ else }}
+                            {{ . }}
+                        {{ end }}
+                    {{ end }}
                 </h1>
             </span>
         </header>

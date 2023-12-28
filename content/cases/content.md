@@ -1,6 +1,6 @@
 ---
 title: "Content"
-class: "Posts"
+class: "Cases"
 author: "kailous"
 date: 2023-12-18T18:12:51+07:00
 draft: false

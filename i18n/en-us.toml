@@ -16,8 +16,17 @@
   About = "About us"
   CloseMenu = "Close menu"
   OpenMainMenu = "Open main menu"
+  Cases = "Cases"
 
 [footer]
   Home = "Home"
   About = "About us"
   Posts = "Blog"
+
+[class]
+  Posts = "Blog"
+  Cases = "Cases"
+
+[Posts]
+  Tags = "Tags"
+  

@@ -17,8 +17,16 @@
   About = "关于我们"
   CloseMenu = "关闭菜单"
   OpenMainMenu = "打开主菜单"
+  Cases = "案例展示"
 
 [footer]
   Home = "首页"
   About = "关于我们"
   Posts = "博客"
+
+[class]
+  Posts = "博客"
+  Cases = "案例展示"
+
+[Posts]
+  Tags = "标签"

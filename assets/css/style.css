@@ -1274,14 +1274,6 @@ video {
   height: 2rem;
 }
 
-.h-full {
-  height: 100%;
-}
-
-.h-64 {
-  height: 16rem;
-}
-
 .w-10 {
   width: 2.5rem;
 }
@@ -1490,6 +1482,10 @@ video {
 
 .border-2 {
   border-width: 2px;
+}
+
+.border {
+  border-width: 1px;
 }
 
 .border-t {

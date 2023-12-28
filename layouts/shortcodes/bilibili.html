@@ -1,0 +1,16 @@
+
+{{ $videoURL := .Get "srcVideo" }}
+{{ $trackURL := .Get "srcTrack" }}
+
+<video controls>
+  <source src="{{ $videoURL }}" type="video/mp4">
+  <source default src="{{ $trackURL }}" kind="captions" srclang="zh-cn" type="audio/m4s">
+  <track default src="{{ $trackURL }}" kind="captions" srclang="zh-cn" type="audio/mp4">
+  <track default src="{{ $trackURL }}" kind="captions" srclang="zh-cn" type="audio/aac">
+  <track default src="{{ $trackURL }}" kind="captions" srclang="zh-cn" type="audio/mp3">
+  <track default src="{{ $trackURL }}" kind="captions" srclang="zh-cn" type="audio/m4s">
+  Download the
+  <a href="{{ $videoURL }}">MP4</a>
+  video, and
+  <a href="{{ $trackURL }}">subtitles</a>.
+</video>

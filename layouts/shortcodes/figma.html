@@ -1,0 +1,4 @@
+<!-- layouts/shortcodes/figma_embed.html -->
+{{ $figmaURL := .Get "url" }}
+{{ $embedURL := printf "https://www.figma.com/embed?embed_host=share&url=%s" $figmaURL }}
+<iframe class="w-full" src="{{ $embedURL }}" allowfullscreen style="height: 100vh;"></iframe>

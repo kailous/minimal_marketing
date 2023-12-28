@@ -7,7 +7,7 @@ Message = "Message"
 Sendmessage = "Send message"
 h1 = "Tell us about your plans"
 
-[navBar]
+[Navbar]
 Home = "Home"
 Contact = "Contact"
 Posts = "Blog"

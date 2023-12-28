@@ -7,7 +7,7 @@ Message = "消息"
 Sendmessage = "发送"
 h1 = "告诉我们您的计划"
 
-[navBar]
+[Navbar]
 Home = "首页"
 Contact = "联系我们"
 Posts = "博客"

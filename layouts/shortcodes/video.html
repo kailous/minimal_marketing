@@ -1,0 +1,8 @@
+
+{{ $videoURL := .Get "srcVideo" }}
+{{ $trackURL := .Get "srcTrack" }}
+
+<video controls>
+  <source src="{{ $videoURL }}" type="video/mp4">
+  <track default src="{{ $trackURL }}" kind="captions" srclang="zh-cn" type="audio/mp4">
+</video>

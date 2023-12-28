@@ -2,16 +2,16 @@
 # https://gohugo.io/content-management/multilingual/#translation-of-strings
 
 [Contact]
-  FirstName = "First name"
-  LastName = "Last name"
-  Email = "Email"
-  PhoneNumber = "Phone number"
-  Message = "Message"
-  Send = "Send message"
-  h1 = "Tell us about your plans"
+FirstName = "First name"
+LastName = "Last name"
+Email = "Email"
+PhoneNumber = "Phone number"
+Message = "Message"
+SendMessage = "Send message"
+h1 = "Tell us about your plans"
 
 [navBar]
-  Home = "Home"
-  Contact = "Contact"
-  Posts = "Blog"
-  About = "About us"
+Home = "Home"
+Contact = "Contact"
+Posts = "Blog"
+About = "About us"

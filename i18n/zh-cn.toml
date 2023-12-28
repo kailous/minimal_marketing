@@ -5,7 +5,7 @@ Email = "Email"
 Phonenumber = "手机号码"
 Message = "消息"
 Sendmessage = "发送"
-h1 = "告诉我们您的计划"
+ht = "告诉我们您的计划"
 
 [Navbar]
 Home = "首页"

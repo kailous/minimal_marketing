@@ -6,7 +6,7 @@ description: This my next awesome post about stuff that my audience love to read
 featured_image: ../assets/images/defaults/featured_image.jpg
 ---
 
-# {{< i18n "Contact.h1" >}}
+# {{< i18n "Contact.ht" >}}
 
 <form action="#" method="POST" class="">
   <div class="">

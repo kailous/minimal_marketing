@@ -5,7 +5,7 @@ Email = "Email"
 Phonenumber = "Phone number"
 Message = "Message"
 Sendmessage = "Send message"
-h1 = "Tell us about your plans"
+ht = "Tell us about your plans"
 
 [Navbar]
 Home = "Home"

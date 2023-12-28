@@ -11,11 +11,7 @@
   h1 = "告诉我们您的计划"
 
 [navBar]
+  Home = "首页"
   Contact = "联系我们"
   Posts = "博客"
   About = "关于我们"
-
-[footer]
-  Home = "首页"
-  About = "关于我们"
-  Posts = "博客"

@@ -11,11 +11,7 @@
   h1 = "Tell us about your plans"
 
 [navBar]
+  Home = "Home"
   Contact = "Contact"
   Posts = "Blog"
   About = "About us"
-
-[footer]
-  Home = "Home"
-  About = "About us"
-  Posts = "Blog"

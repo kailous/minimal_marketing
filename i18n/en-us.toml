@@ -2,8 +2,7 @@
 # https://gohugo.io/content-management/multilingual/#translation-of-strings
 
 [Contact]
-  FirstName = "First name"
-  LastName = "Last name"
+  Name = "Name"
   Email = "Email"
   PhoneNumber = "Phone number"
   Message = "Message"

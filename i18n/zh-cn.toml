@@ -2,11 +2,10 @@
 # https://gohugo.io/content-management/multilingual/#translation-of-strings
 
 [Contact]
-  FirstName = "名字"
-  LastName = "姓氏"
-  Email = "Email"
+  Name = "姓名"
+  Email = "电子邮箱"
   PhoneNumber = "手机号码"
-  Message = "消息"
+  Message = "留言"
   Send = "发送"
   Title = "告诉我们您的计划"
 

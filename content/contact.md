@@ -42,8 +42,8 @@ featured_image: ../assets/images/defaults/featured_image.jpg
         </div>
       </div>
     </div>
-    <div class="mt-8 flex justify-end">
-      <button type="submit" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">{{< i18n "Contact.Send" >}}</button>
+    <div class="mt-8 flex justify-end grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
+      <button type="submit" class="sm:col-span-2 rounded-md bg-indigo-500 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">{{< i18n "Contact.Send" >}}</button>
     </div>
   </div>
 </form>

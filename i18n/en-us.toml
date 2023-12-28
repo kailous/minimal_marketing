@@ -1,6 +1,6 @@
 [Contact]
-Firstname = "First name"
-Lastname = "Last name"
+fn = "First name"
+ln = "Last name"
 Email = "Email"
 Phonenumber = "Phone number"
 Message = "Message"

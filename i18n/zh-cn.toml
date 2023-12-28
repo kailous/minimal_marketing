@@ -1,6 +1,6 @@
 [Contact]
-Firstname = "名字"
-Lastname = "姓氏"
+fn = "名字"
+ln = "姓氏"
 Email = "Email"
 Phonenumber = "手机号码"
 Message = "消息"

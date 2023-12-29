@@ -1484,10 +1484,6 @@ video {
   border-width: 2px;
 }
 
-.border {
-  border-width: 1px;
-}
-
 .border-t {
   border-top-width: 1px;
 }
@@ -2097,6 +2093,10 @@ EmojiSymbols;
     grid-column: span 2 / span 2;
   }
 
+  .sm\:col-span-3 {
+    grid-column: span 3 / span 3;
+  }
+
   .sm\:mt-24 {
     margin-top: 6rem;
   }
@@ -2111,6 +2111,10 @@ EmojiSymbols;
 
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sm\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .sm\:py-32 {
